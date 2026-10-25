@@ -1,0 +1,12 @@
+{
+    "name": "neural-ai-studio",
+    "version": "1.0.0",
+    "description": "A personal AI chat website",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "dependencies": {
+        "express": "^5.3.0"
+    }
+}
